@@ -17,17 +17,18 @@ VS Code
 ### 🔧 Installation
 
 ```
-yarn 
+npm i 
 ```
 ### 📦 In the project directory, you can run:
 
 ```
-yarn start
+npm run dev
 ```
 
 ## 🛠️ Built with
 
-* [React](https://pt-br.reactjs.org/) - Framework web 
+* [React](https://pt-br.reactjs.org/) - Framework web
+* [json-server](https://github.com/typicode/json-server) - Get a full fake REST API
 * [MirageJS](https://miragejs.com/) - API mocking library
 * [Radix](https://www.radix-ui.com/) - An open-source UI component library
 * [styled-components](https://styled-components.com/) - Style
