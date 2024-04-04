@@ -17,12 +17,12 @@ VS Code
 ### 🔧 Installation
 
 ```
-yarn 
+npm i 
 ```
 ### 📦 In the project directory, you can run:
 
 ```
-yarn start
+npm run dev
 ```
 
 ## 🛠️ Built with
