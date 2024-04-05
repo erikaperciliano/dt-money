@@ -37,6 +37,7 @@ npm run dev
 * [React](https://pt-br.reactjs.org/) - Framework web
 * [json-server](https://github.com/typicode/json-server) - Get a full fake REST API
 * [MirageJS](https://miragejs.com/) - API mocking library
+* [use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 * [Radix](https://www.radix-ui.com/) - An open-source UI component library
 * [styled-components](https://styled-components.com/) - Style
 * [TypeScript](https://www.typescriptlang.org/docs/) - Programming languag
