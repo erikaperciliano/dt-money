@@ -9,6 +9,13 @@ It is also possible to register a new transaction with new entries.
 ## 🚀 Starting
 These instructions will allow you to get a copy of the project running on your local machine for development and testing purposes.
 
+# 🎯Result:
+<br/>
+
+<img src="https://github.com/erikaperciliano/dt-money/assets/48223561/98f3306e-424b-44a1-af3e-090a2fcb7676" width="1000" height="700">
+<img src="https://github.com/erikaperciliano/dt-money/assets/48223561/05624702-76db-4549-bf41-89feb502d19a" width="1000" height="700">
+
+
 ### 📋 Prerequisites
 
 ```
