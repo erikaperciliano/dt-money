@@ -1,5 +1,6 @@
-import { ReactNode, useEffect, useState, createContext } from "react";
+import { ReactNode, useEffect, useState } from "react";
 import { api } from "../lib/axios";
+import { createContext } from "use-context-selector";
 
 interface Transaction {
     id: number;
